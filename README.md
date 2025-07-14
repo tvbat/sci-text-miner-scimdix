@@ -21,4 +21,20 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 ## How to Cite
 
-If you use the SciMDIX dataset in your research, please cite the associated paper:
+**Dataset DOI:** [10.5281/zenodo.15882221](https://doi.org/10.5281/zenodo.15882221).
+```bibtex
+@dataset{scimdix2025,
+  author       = {Batura, Tatiana and
+                  Yerimbetova, Aigerim and
+                  Mukazhanov, Nurzhan and
+                  Shvarts, Nikita and
+                  Sakenov, Bakzhan and
+                  Turdalyuly, Mussa},
+  title        = {SciMDIX-v1.0.0},
+  year         = 2025,
+  doi          = {10.5281/zenodo.15882221},
+  url          = {https://doi.org/10.5281/zenodo.15882221},
+}
+```
+
+
