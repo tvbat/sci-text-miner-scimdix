@@ -5,7 +5,7 @@ The SciMDIX dataset comprises abstracts of scientific articles collected from pu
 ### Key Features  
 - **Format**: Structured CSV   
 - **Domains**: IT, Linguistics, Medicine, and Psychology  
-- **Size**: 219 documents in Kazakh, 219 documents in Russian  
+- **Size**: 206 documents in Kazakh, 206 documents in Russian  
 
 ## Important Usage Notes
 
@@ -19,9 +19,9 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 If you find this repository useful, feel free to cite our paper:
 
-Batura T., Yerimbetova A., Mukazhanov N., Shvarts N., Sakenov B., Turdalyuly M. Information Extraction from Multi-Domain Scientific Documents: Methods and Insights. Applied Sciences. 2025. 15, 9086. [https://doi.org/10.3390/app15169086](https://doi.org/10.3390/app15169086)
+Batura T., Yerimbetova A., Mukazhanov N., Shvarts N., Sakenov B., Turdalyuly M. Information Extraction from Multi-Domain Scientific Documents: Methods and Insights. Applied Sciences. MDPI, 2025. V.15, 9086. [https://doi.org/10.3390/app15169086](https://doi.org/10.3390/app15169086)
 ```bibtex
-@article{app15169086,
+@article{scimdix2025,
 author = {Batura, Tatiana and Yerimbetova, Aigerim and Mukazhanov, Nurzhan and Shvarts, Nikita and Sakenov, Bakzhan and Turdalyuly, Mussa},
 title = {Information Extraction from Multi-Domain Scientific Documents: Methods and Insights},
 journal = {Applied Sciences},
@@ -29,6 +29,7 @@ volume = {15},
 year = {2025},
 number = {16},
 article-number = {9086},
+publisher = {MDPI},
 url = {https://www.mdpi.com/2076-3417/15/16/9086},
 doi = {10.3390/app15169086}
 }
