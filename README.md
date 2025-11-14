@@ -1,10 +1,6 @@
-# SciMDIX   
+# SciMDIX dataset   
 
-This repository contains the SciMDIX (Scientific Multi-Domain Information eXtraction) dataset, associated with the paper "Information Extraction from Multi-Domain Scientific Documents: Methods and Insights"
-
-
-## Overview  
-This SciMDIX dataset comprises abstracts of scientific articles collected from publicly available sources and annotated with entities and relations.  
+The SciMDIX dataset comprises abstracts of scientific articles collected from publicly available sources and annotated with entities and relations.  
 
 ### Key Features  
 - **Format**: Structured CSV   
@@ -21,19 +17,20 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 ## How to Cite
 
-**Dataset DOI:** [10.5281/zenodo.15882221](https://doi.org/10.5281/zenodo.15882221).
+If you find this repository useful, feel free to cite our paper:
+
+Batura T., Yerimbetova A., Mukazhanov N., Shvarts N., Sakenov B., Turdalyuly M. Information Extraction from Multi-Domain Scientific Documents: Methods and Insights. Applied Sciences. 2025. 15, 9086. [https://doi.org/10.3390/app15169086](https://doi.org/10.3390/app15169086)
 ```bibtex
-@dataset{scimdix2025,
-  author       = {Batura, Tatiana and
-                  Yerimbetova, Aigerim and
-                  Mukazhanov, Nurzhan and
-                  Shvarts, Nikita and
-                  Sakenov, Bakzhan and
-                  Turdalyuly, Mussa},
-  title        = {SciMDIX-v1.0.0},
-  year         = 2025,
-  doi          = {10.5281/zenodo.15882221},
-  url          = {https://doi.org/10.5281/zenodo.15882221},
+@article{app15169086,
+author = {Batura, Tatiana and Yerimbetova, Aigerim and Mukazhanov, Nurzhan and Shvarts, Nikita and Sakenov, Bakzhan and Turdalyuly, Mussa},
+title = {Information Extraction from Multi-Domain Scientific Documents: Methods and Insights},
+journal = {Applied Sciences},
+volume = {15},
+year = {2025},
+number = {16},
+article-number = {9086},
+url = {https://www.mdpi.com/2076-3417/15/16/9086},
+doi = {10.3390/app15169086}
 }
 ```
 
