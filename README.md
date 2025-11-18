@@ -7,6 +7,10 @@ The SciMDIX dataset comprises abstracts of scientific articles collected from pu
 - **Domains**: IT, Linguistics, Medicine, and Psychology  
 - **Size**: 206 documents in Kazakh, 206 documents in Russian  
 
+## Related Experiments
+
+Transfer learning experiments on aspect extraction using the [`scimdix-aspects`](https://github.com/tvbat/sci-text-miner-scimdix/tree/main/data/scimdix-aspects) version of this dataset are available in the [Aspect Extraction for Scientific Texts](https://github.com/nikitashvarts/scimdix_aspect_extraction/tree/master) repository.
+
 ## Important Usage Notes
 
 The abstracts contained within this dataset remain the intellectual property of their authors and publishers.
