@@ -1,6 +1,6 @@
 # SciMDIX dataset   
 
-The SciMDIX dataset comprises abstracts of scientific articles collected from publicly available sources and annotated with entities and relations.  
+The SciMDIX dataset comprises abstracts of scientific articles collected from publicly available sources and annotated with entities, relations, and aspects.  
 
 ### Key Features  
 - **Format**: Structured CSV   
