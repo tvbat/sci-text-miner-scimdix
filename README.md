@@ -23,7 +23,21 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 If you find this repository useful, feel free to cite our paper:
 
-Batura T., Yerimbetova A., Mukazhanov N., Shvarts N., Sakenov B., Turdalyuly M. Information Extraction from Multi-Domain Scientific Documents: Methods and Insights. Applied Sciences. MDPI, 2025. V.15, 9086. [https://doi.org/10.3390/app15169086](https://doi.org/10.3390/app15169086)
+Shvarts N., Batura T., Mukazhanov N., Yerimbetova A., Turdalyuly M., Sakenov B. [SciMDIX: A dataset for aspect extraction from multi-domain scientific documents in Kazakh and Russian](https://doi.org/10.1016/j.procs.2026.01.056). Procedia Computer Science. 2026. V. 275, pp.474-483.
+
+```bibtex
+@article{scimdix2026,
+  title={SciMDIX: A dataset for aspect extraction from multi-domain scientific documents in Kazakh and Russian},
+  author={Shvarts, Nikita and Batura, Tatiana and Mukazhanov, Nurzhan and Yerimbetova, Aigerim and Turdalyuly, Mussa and Sakenov, Bakzhan},
+  journal={Procedia Computer Science},
+  volume={275},
+  pages={474--483},
+  year={2026},
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.procs.2026.01.056}
+}
+```
+Batura T., Yerimbetova A., Mukazhanov N., Shvarts N., Sakenov B., Turdalyuly M. [Information Extraction from Multi-Domain Scientific Documents: Methods and Insights](https://doi.org/10.3390/app15169086). Applied Sciences. MDPI. 2025. V.15, 9086.
 ```bibtex
 @article{scimdix2025,
 author = {Batura, Tatiana and Yerimbetova, Aigerim and Mukazhanov, Nurzhan and Shvarts, Nikita and Sakenov, Bakzhan and Turdalyuly, Mussa},
@@ -34,8 +48,7 @@ year = {2025},
 number = {16},
 article-number = {9086},
 publisher = {MDPI},
-url = {https://www.mdpi.com/2076-3417/15/16/9086},
-doi = {10.3390/app15169086}
+doi = {https://doi.org/10.3390/app15169086}
 }
 ```
 
